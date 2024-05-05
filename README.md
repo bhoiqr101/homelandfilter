@@ -123,7 +123,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/davidggsas/nobita-filter">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/bhoiqr101/homelandfilter">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
